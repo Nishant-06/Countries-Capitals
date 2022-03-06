@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Countries &amp; Capitals</string>
+    <string name="error_text">An error occured while loading data</string>
+    <string name="country_name">Country</string>
+    <string name="captal_name">Captal:</string>
+    <string name="capital">Capital</string>
+    <string name="populationCount">population:</string>
+    <string name="population">population</string>
+</resources>
